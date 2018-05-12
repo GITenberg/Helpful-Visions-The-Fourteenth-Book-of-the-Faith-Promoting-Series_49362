@@ -1,4 +1,5 @@
 _repo: Helpful-Visions-The-Fourteenth-Book-of-the-Faith-Promoting-Series_49362
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Rich, Ben E.
@@ -13,7 +14,12 @@ contributor:
   - agent_name: Shreeve, Thomas A.
     gutenberg_agent_id: '45289'
     url: http://www.gutenberg.org/2009/agents/45289
+covers:
+- cover_type: archival
+  image_path: 49362-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49362#Helpful-Visions-The-Fourteenth-Book-of-the-Faith-Promoting-Series
 gutenberg_issued: '2015-07-05'
 gutenberg_type: Text
 identifiers:
